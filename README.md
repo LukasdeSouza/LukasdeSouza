@@ -1,4 +1,5 @@
-- 👋 Olá, me chamo Lucas (@LukasdeSouza)
+- 👋 Olá, me chamo Lucas @LukasdeSouza
+- 🥴 Com conta nova pois perdi o acesso a primeira.
 - 👀 Tenho interesse em programação, Web Design e app's.
 - 🌱 Atualmente estou me aprofundando em criação de web sites mas já desenvolvi algumas aplicações em Delphi linkadas com banco de dados.
 - 💞 Projetos Pessoais
