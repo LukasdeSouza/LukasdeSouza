@@ -2,8 +2,11 @@
 - 🥴 Com conta nova pois perdi o acesso a primeira.
 - 👀 Tenho interesse em programação, Web Design e app's.
 
-Ferramentas e Tecnologias que uso:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width:"40px" height:"40px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"  width:"40" height:"40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width:"40" height:"40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  width:"40" height:"40"/>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
           
           
           
