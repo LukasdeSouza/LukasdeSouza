@@ -3,6 +3,7 @@
 - 👀 Tenho interesse em programação, Web Design e app's.
 
 Ferramentas e Tecnologias que uso:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height:"40" width:"40"/>
