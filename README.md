@@ -4,9 +4,9 @@
 
 Ferramentas e Tecnologias que uso:
 Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-Javascript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width:"40" height:"40"/>   
+Javascript
+
 Typescript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width:"40" height:"40"/>
 Angular JS
