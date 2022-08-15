@@ -3,36 +3,7 @@
 - 👀 Tenho interesse em programação, Web Design e app's.
 
 Ferramentas e Tecnologias que uso:
-Git
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width:"40" height:"40"/>   
-Javascript
-
-Typescript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width:"40" height:"40"/>
-Angular JS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width:"40" height:"40"/>
-Bootstrap
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width:"40" height:"40"/>
-NodeJs
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width:"40" height:"40"/>
-PHP
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width:"40" height:"40"/>
-PostgreSQL
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  width:"40" height:"40"/>
-Sass
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width:"40" height:"40"/>
-Material Components
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"  width:"40" height:"40" />
-Python
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width:"40" height:"40"/>
-React
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width:"40" height:"40"/>
-TailwindCSS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width:"40" height:"40"/> 
-VueJS
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width:"40" height:"40"/>
-GIT
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  width:"40" height:"40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width:"40" height:"40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg"  width:"40" height:"40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"  width:"40" height:"40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width:"40" height:"40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"  width:"40" height:"40"/>
           
           
           
