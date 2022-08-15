@@ -13,12 +13,6 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
  </a>
 </div>
-
-<div>
-<a href="https://github.com/LukasdeSouza">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasdeSouza&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasdeSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
    
    
    
@@ -36,14 +30,20 @@ Linguagens & Tecnologias: `Typescript`, `Javascript`, `AngularJS`, `Material`, `
 [**SENAC**](https://mg.senac.br/Paginas/default.aspx) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
-<br/>
-   
+<br/>   
    
 
 
 <h2> Tecnologias e ferramentas que uso: </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" heigth="70"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" heigth="70"/>
+   
+   
+<div>
+<a href="https://github.com/LukasdeSouza">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasdeSouza&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasdeSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
    
           
 
