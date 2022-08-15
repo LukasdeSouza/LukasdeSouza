@@ -2,6 +2,8 @@
 
 <h3> Atualmente trabalhando como Frontend Dev <h3>
    
+   
+   
 ### Contatos:
 
 <div>
@@ -18,6 +20,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LukasdeSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
    
+   
+   
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
    
@@ -28,12 +32,13 @@ Linguagens & Tecnologias: `Typescript`, `Javascript`, `AngularJS`, `Material`, `
 
 <br/>
 
-
 **I.T Instrutor** \
 [**SENAC**](https://mg.senac.br/Paginas/default.aspx) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
+   
+   
 
 
 <h2> Tecnologias e ferramentas que uso: </h2>
