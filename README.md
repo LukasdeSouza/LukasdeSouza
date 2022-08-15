@@ -32,7 +32,7 @@ Linguagens & Tecnologias: `Typescript`, `Javascript`, `AngularJS`, `Material`, `
 
 <br/>
 
-**I.T Instrutor** \
+**I.T Instructor** \
 [**SENAC**](https://mg.senac.br/Paginas/default.aspx) • Contract \
 Linguagens & Tecnologias: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
 Projetos em destaque: [Ignite](), [Bootcamp]()
