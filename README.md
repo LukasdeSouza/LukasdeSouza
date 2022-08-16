@@ -1,10 +1,12 @@
 <h2>👋 Olá, me chamo Lucas @LukasdeSouza </h2>
 
-<h3> Atualmente trabalhando como Frontend Developer <h3>
+<h3> Atualmente trabalhando como Frontend Developer 
+   (Currently Working as a Frontend Developer) <h3>
    
    
    
 ### Contatos:
+(Contacts):
 
 <div>
 <a href = "mailto:contato@lucas_souza.s11@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,6 +19,7 @@
    
    
 ### Experiência de trabalho
+   (Job experience)
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
    
 
