@@ -50,8 +50,10 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
    
           
 
+   <div style="width:300px; height:300px">
+   ![octocat-1660605280125](https://user-images.githubusercontent.com/99886292/184736435-658295bb-a6bb-4810-961f-93cb5f2781ba.png)
+   </div>
 
-![octocat-1660605280125](https://user-images.githubusercontent.com/99886292/184736435-658295bb-a6bb-4810-961f-93cb5f2781ba.png)
           
           
           
