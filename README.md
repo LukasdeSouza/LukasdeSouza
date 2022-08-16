@@ -1,6 +1,6 @@
 <h2>👋 Olá, me chamo Lucas @LukasdeSouza </h2>
 
-<h3> Atualmente trabalhando como Frontend Dev <h3>
+<h3> Atualmente trabalhando como Frontend Developer <h3>
    
    
    
