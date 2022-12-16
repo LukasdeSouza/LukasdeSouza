@@ -45,13 +45,6 @@ Tecnologies: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
    
           
 
-   ![octocat-1660605280125](https://user-images.githubusercontent.com/99886292/184736435-658295bb-a6bb-4810-961f-93cb5f2781ba.png)
-  
-          
-          
-          
-        
-
 <!---
 LukasdeSouza/LukasdeSouza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
