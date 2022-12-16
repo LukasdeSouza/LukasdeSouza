@@ -1,9 +1,9 @@
 <h2>👋 Hi, my name is Lucas @LukasdeSouza </h2>
 
-<h3>Currently Working as a Frontend Developer<h3>
+<h3>Currently Working as a Frontend Developer</h3>
    
    
-Contacts
+   <h5>Contacts</h5>
 
 <div>
 <a href = "mailto:contato@lucas_souza.s11@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
