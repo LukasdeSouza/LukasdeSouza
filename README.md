@@ -1,12 +1,9 @@
-<h2>👋 Olá, me chamo Lucas @LukasdeSouza </h2>
+<h2>👋 Hi, my name is Lucas @LukasdeSouza </h2>
 
-<h3> Atualmente trabalhando como Frontend Developer 
-   (Currently Working as a Frontend Developer) <h3>
+<h3>Currently Working as a Frontend Developer<h3>
    
    
-   
-### Contatos:
-(Contacts):
+Contacts
 
 <div>
 <a href = "mailto:contato@lucas_souza.s11@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,29 +14,27 @@
 </div>
    
    
+Experiences   
    
-### Experiência de trabalho
-   (Job experience)
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-   
+   **Frontend Developer** \
+[**BestDeal Technologies*](https://www.bestdeal.com.br/) • Full-time \
+Tecnologies: `Typescript`, `Javascript`, `ReactJs`, `MUI`, `Figma`, `Framer Motion`, `HighCharts`,`Storybook`, `GraphQL\
 
-**Desenvolvedor Frontend** \
+
+**Frontend Developer** \
 [**Virtual Connection**](https://www.virtualconnection.com.br/) • Full-time \
-Linguagens & Tecnologias: `Typescript`, `Javascript`, `AngularJS`, `Material`, `Bootstrap`, `Aurelia`, `PostgreSQL`,`PHP`\
+Tecnologies: `Typescript`, `Javascript`, `AngularJS`, `Material`, `Bootstrap`, `Aurelia`, `PostgreSQL`,`PHP`\
 
 <br/>
 
 **I.T Instructor** \
 [**SENAC**](https://mg.senac.br/Paginas/default.aspx) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+Tecnologies: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
 <br/>   
    
 
 
-<h2> Tecnologias e ferramentas que uso: </h2>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="70" heigth="70"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" heigth="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="70" heigth="70" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" heigth="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" heigth="70"/>
    
    
 <div>
