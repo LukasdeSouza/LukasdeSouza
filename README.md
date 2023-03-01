@@ -27,7 +27,7 @@ Tecnologies: `Typescript`, `Javascript`, `AngularJS`, `Material`, `Bootstrap`, `
 
 <br/>
 
-**I.T Instructor** \
+**Web Design, Programming Teacher** \
 [**SENAC**](https://mg.senac.br/Paginas/default.aspx) • Contract \
 Tecnologies: `JavaScript`, `SQL`, `HTML`,`CSS`,`Bootstrap`,`PHP`\
 <br/>   
