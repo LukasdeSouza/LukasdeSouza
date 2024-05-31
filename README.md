@@ -1,6 +1,6 @@
 <h3>👋 Hi, my name is Lucas @LukasdeSouza </h3>
 
-<h4>I'm a  Software Developer | Frontend Developer </h4>
+<h4>I'm a  Software Engineer | Frontend Dev. </h4>
       
    
 Experiences   
