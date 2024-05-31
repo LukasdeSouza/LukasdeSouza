@@ -5,8 +5,8 @@
    
 Experiences   
    
-   **Frontend Developer** \
-[**BestDeal Technologies**](https://www.bestdeal.com.br/) • Full-time \
+   **Frontend Engineer** \
+[**Wisebyte**]([https://www.bestdeal.com.br/](https://wisebyte.com.br/)) • Full-time \
 Tecnologies: `Javascript` `ReactJs` `MUI` `Axios` `Figma` `Framer Motion` `HighCharts` `Storybook` `GraphQL` 
 
 <br/>
@@ -14,6 +14,18 @@ Tecnologies: `Javascript` `ReactJs` `MUI` `Axios` `Figma` `Framer Motion` `HighC
 **Frontend Developer** \
 [**Virtual Connection**](https://www.virtualconnection.com.br/) • Full-time \
 Tecnologies: `Typescript`, `Javascript`, `AngularJS`, `Material`, `Bootstrap`, `Aurelia`, `PostgreSQL`,`PHP`
+
+<br/>
+
+**Frontend Engineer** \
+[**ISM**]([https://www.virtualconnection.com.br/](https://www.linkedin.com/company/institutosermelhor/)) • Part-time \
+Tecnologies: `Typescript`, `Javascript`, `TailwindCSS`, `NextJs`
+
+<br/>
+
+**Developer Coord.** \
+[**ISP**]() • Part-time \
+Tecnologies: `Typescript`, `Javascript`, `React Native`, `TailwindCSS`, `NextJs`
 
 <br/>
 
