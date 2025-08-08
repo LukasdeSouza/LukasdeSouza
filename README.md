@@ -4,6 +4,10 @@
       
    
 Experiences   
+
+   **Fullstack Engineer** \
+[**Envor tec**]([]()) • Full-time \
+Tecnologies: `Javascript` `ReactJs` `Nextjs` `Docker` `Nest` `Node` 
    
    **Frontend Engineer** \
 [**Wisebyte**]([https://www.bestdeal.com.br/](https://wisebyte.com.br/)) • Full-time \
@@ -14,12 +18,6 @@ Tecnologies: `Javascript` `ReactJs` `MUI` `Axios` `Figma` `Framer Motion` `HighC
 **Frontend Developer** \
 [**Virtual Connection**](https://www.virtualconnection.com.br/) • Full-time \
 Tecnologies: `Typescript`, `Javascript`, `AngularJS`, `Material`, `Bootstrap`, `Aurelia`, `PostgreSQL`,`PHP`
-
-<br/>
-
-**Frontend Engineer** \
-[**ISM**]([https://www.virtualconnection.com.br/](https://www.linkedin.com/company/institutosermelhor/)) • Part-time \
-Tecnologies: `Typescript`, `Javascript`, `TailwindCSS`, `NextJs`
 
 <br/>
 
